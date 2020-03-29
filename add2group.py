@@ -22,7 +22,7 @@ def banner():
 {re} ╩ {cy}└─┘┴─┘└─┘{re}╚═╝  ╚═╝{cy}└─┘┴└─┴ ┴┴  └─┘┴└─
 
             version : 1.0
-        youtube.com/theunknon
+        MADE BY PIYUSH TECH 
         """)
 
 cpass = configparser.RawConfigParser()
