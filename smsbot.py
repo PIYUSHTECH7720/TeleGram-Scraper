@@ -23,7 +23,7 @@ class main():
     {re} ╩ {cy}└─┘┴─┘└─┘{re}╚═╝  ╚═╝{cy}└─┘┴└─┴ ┴┴  └─┘┴└─
 
                 version : 3.1
-            youtube.com/theunknon
+            MADE BY PIYUSH TECH
             """)
 
     def send_sms():
